@@ -1,25 +1,16 @@
-# ReduxSimpleStarter
+# YouTube Search Engine
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A simple YouTube search engine built with JavaScript, React, HTML, and CSS.
 
-### Getting Started
+## Getting Started
 
-There are two methods for getting started with this repo.
+### Installation
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Make sure you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+Clone the repository and install dependencies:
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+npm install
